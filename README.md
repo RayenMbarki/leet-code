@@ -1,1 +1,3 @@
-"# leet-code" 
+# leet Code problems : 
+#twoSum
+#SingleNumber
