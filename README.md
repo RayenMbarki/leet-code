@@ -1,3 +1,3 @@
 # leet Code problems : 
-#twoSum
-#SingleNumber
+- twoSum
+- SingleNumber
